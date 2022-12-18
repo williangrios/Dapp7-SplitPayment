@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^9.1.1",
     "web-vitals": "^2.1.4",
-    "wrcomponents": "^1.0.46"
+    "wrcomponents": "^1.0.70"
   },
   "scripts": {
     "start": "react-scripts start",
