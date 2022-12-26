@@ -1,7 +1,6 @@
 
 module.exports = {
 
-
   networks: {
  
     development: {
@@ -11,8 +10,6 @@ module.exports = {
     },
   
   },
-
-  
   
   compilers: {
     solc: {
